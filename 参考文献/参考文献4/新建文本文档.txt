@@ -1,0 +1,22 @@
+[53] Song S-W, Evans JW. Electrochemical thermal model of lithium polymer
+batteries. J Electrochem Soc 2000;147(6):2086每95.
+[54] Smekens J, Paulsen J, Yang W, Omar N, Deconinck J, Hubin a, et al. A modified multiphysics model for Lithium-Ion batteries with a LixNi1/3Mn1/3Co1/3O2 electrode. Electrochim Acta 2015;174(Aug):615每24.
+[55] Smekens J, Paulsen J, Yang W, Omar N, Deconinck J, Hubin a, et al. A modified multiphysics model for Lithium-Ion batteries with a LixNi1/3Mn1/3Co1/3O2 electrode. Electrochim Acta 2015;174(Aug):615每24.
+[56] Capron O, Samba A, Omar N, Coosemans T, Bossche P, Van Mierlo J. Lithiumion batteries: thermal behaviour investigation of unbalanced modules. Sustainability 2015;7(7):8374每92.
+[61] Gao L, Liu S, Dougal RA, Member S. Dynamic lithium-ion battery model for system simulation. IEEE Trans Compon Packag Technol 2002;25(3):495每505.
+[62] Gonz芍lez-longatt FM. Circuit based battery models: a review. In: Congr iberoam. estud ing el谷ctrica; 2006.
+[63] Tremblay O, Dessaint L-A, Dekkiche A-I. A generic battery model for the dynamic simulation of hybrid electric vehicles. In: 2007 IEEE veh power propuls conf; Sep. 2007. p. 284每9.
+[64] Tsang KM, Chan WL, Wong YK, Sun L. Lithium-ion battery models for
+computer simulation. In: 2010 IEEE int conf autom logist, vol. no. 2, Aug. 2010. p. 98每102.
+[65] Saw LH, Ye Y, Tay AAO. Electro-thermal characterization of Lithium Iron Phosphate cell with equivalent circuit modeling. Energy Convers Manage 2014;87(Nov):367每77.
+[66] Daowd M, Omar N, Verbrugge B, Van Den Bosschev P, Van Mierlo J. Battery models parameter estimation based on matlab/simulink. In: 25th world batter. hybrid fuel cell electr veh symp exhib batter, vol. 2; 2010. p. 5每9.
+[70] Gu WB, Wang CY. Thermal-electrochemical modeling of battery systems. J Electrochem Soc 2000;147(8):2910每22.
+[71] Srinivasan V, Wang CY. Analysis of electrochemical and thermal behavior of Li-ion cells. J Electrochem Soc 2003;150:A98每A106.
+[78] Saw LH, Ye Y, Tay AAO. Electro-thermal analysis and integration issues of lithium ion battery for electric vehicles. Appl Energy 2014;131(Oct):97每107.
+[81] Feng X, Member S, Gooi HB, Member S, Chen SX. An improved lithium-ion battery model with temperature prediction considering entropy. In: IEEE PES innov smart grid technol eur; 2012. p. 1每8.
+[82] Chen M, Member S, Rinc GA. Accurate electrical battery model capable of predicting runtime and I每V performance. IEEE Trans Energy Convers 2006;21 (2):504每11.
+[83] Omar N, Widanage D, Monem MA, Firouz Y, Hegazy O, Van den Bossche P, et al. Optimization of an advanced battery model parameter minimization tool and development of a novel electrical model for lithium-ion batteries. Int Trans Electr Energy Syst 2014;24(12):1747每67.
+[107] Liaw BY, Jungst RG, Doughty DH, Modeling capacity fade in lithium-ion cells. Electrochem. Soc. Inc., no. 808; 2003. p. 96821.
+[108] Szumanowski A. Battery management system based on battery nonlinear dynamics modeling. IEEE Trans Veh Technol 2008;57(3):1425每32.
+[111] Broussely M, Biensan P, Bonhomme F, Blanchard P, Herreyre S, Nechev K, et al. Main aging mechanisms in Li ion batteries. J Power Sources 2005;146 (1每2):90每6.
+[40] Omar N, Monem MA, Firouz Y, Salminen J, Smekens J, Hegazy O, et al. Lithium iron phosphate based battery 每 assessment of the aging parameters and development of cycle life model. Appl Energy 2014;113(Jan):1575每85.
