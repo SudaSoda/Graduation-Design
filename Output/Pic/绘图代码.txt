@@ -1,0 +1,9 @@
+set(0,'defaultfigurecolor','w')
+
+plot(x,y,'o')
+
+xlabel('x','FontSize',11);ylabel('y','FontSize',11)
+
+set(gca,'xticklabel',{0.1,0.2,0.3,0.4,0.5});  %xticklabel表示设置刻度上显示的东西，后面为希望显示的实际值
+
+xlim([1,2])
