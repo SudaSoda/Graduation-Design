@@ -2,7 +2,7 @@ set(0,'defaultfigurecolor','w')
 
 plot(x,y,'o')
 
-xlabel('x','FontSize',11);ylabel('y','FontSize',11)
+xlabel('时间（s）','FontSize',11);ylabel('温度（℃）','FontSize',11)
 
 set(gca,'xticklabel',{0,20,40,60,80,100});  %xticklabel表示设置刻度上显示的东西，后面为希望显示的实际值
 
